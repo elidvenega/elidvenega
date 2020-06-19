@@ -3865,6 +3865,9 @@
 /* Footer */
 
 	#footer {
+		background-color: rgba(0, 0, 0, 0.75);
+		color: #fff;
+		height: 15rem;
 		padding: 6em 2em 4em 2em;
 	}
 
